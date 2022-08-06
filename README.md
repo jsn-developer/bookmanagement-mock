@@ -25,4 +25,4 @@ node index.js
 
 ### ブラウザアクセス
 
-[http://localhost:3000](http://localhost:3000)　にアクセスすることで表示できます。
+[http://localhost:3000](http://localhost:3000/login.html)　にアクセスすることで表示できます。
